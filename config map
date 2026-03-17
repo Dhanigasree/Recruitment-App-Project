@@ -1,0 +1,9 @@
+{
+  "job_posting_auto_approval": false,
+  "max_interview_rounds": 3,
+  "background_check_required": true,
+  "default_job_status": "Open",
+  "resume_file_types_allowed": ["pdf", "doc", "docx"],
+  "candidate_duplicate_check": true,
+  "offer_validity_days": 15
+}
